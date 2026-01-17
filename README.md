@@ -76,7 +76,9 @@ Pinned repositories represent **how I write backend code in real projects**.
 
 ## 📫 Contact
 
-- Email: ali.22.zahid@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/ali-zahid-a505095a/
+- 📧 Email: ali.22.zahid@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ali-zahid-a505095a/  
+- 📱 Phone / WhatsApp: +92 348 4211552  
 
 Open to **remote Senior Backend / Java / Node.js roles**.
+
